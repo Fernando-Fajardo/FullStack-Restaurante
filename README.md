@@ -1,4 +1,4 @@
-# 🍴 SmartDine Enterprise System (En Desarrollo)
+# 🍴  Sistema Restaurante
 
 Sistema integral de gestión para restaurantes desarrollado en **C#** bajo una **Arquitectura de N-Capas**. Este proyecto está diseñado para centralizar la operación administrativa y operativa de negocios gastronómicos, separando estrictamente la lógica de datos, negocio y presentación.
 
